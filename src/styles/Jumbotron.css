@@ -1,0 +1,14 @@
+*{
+    font-family: "Montserrat", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    letter-spacing: 1px;
+}
+
+.welcome{
+    font-size: 80px;
+}
+
+.intro{
+    font-size: 16px;
+}
