@@ -2,11 +2,12 @@
     font-family: "Montserrat", serif;
     font-optical-sizing: auto;
     font-style: normal;
-    letter-spacing: 1px;
+    /* background-color: #111827; */
 }
 
 .welcome{
-    font-size: 80px;
+    font-size: 5rem;
+    letter-spacing: 1.5px;
 }
 
 .intro{
