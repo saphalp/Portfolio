@@ -10,7 +10,7 @@ function ProjectCard({item}) {
   return (
 <div class="max-w-sm bg-white border border-gray-300 rounded-lg shadow-md hover:shadow-lg hover:scale-105 transition-transform duration-300">
         <div class="relative">
-            <img class="rounded-t-lg" src={bgImage} alt="Background" />
+            <img class="rounded-t-lg" src={item.background} alt="Background" />
             <div class="absolute inset-0 bg-gradient-to-t from-gray-800 via-transparent to-white rounded-t-lg opacity-70"></div>
         </div>
     <div class="p-5">
